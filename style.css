@@ -21,7 +21,8 @@
   height: 20px;
 }
 
-#email , #senha {
+#email,
+#senha {
   width: 150px;
 }
 
@@ -37,8 +38,4 @@
   display: flex;
   width: 675px;
   flex-direction: column;
-}
-
-.div-container {
-  display: flex;
 }
