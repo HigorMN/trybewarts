@@ -20,6 +20,12 @@
   width: 150px;
 }
 
-.trybewarts-header-title {
+#main {
+  display: flex;
+  width: 675px;
+}
 
+#evaluation-form {
+  display: flex;
+  width: 675px;
 }
