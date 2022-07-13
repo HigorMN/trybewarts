@@ -39,3 +39,8 @@
   width: 675px;
   flex-direction: column;
 }
+
+.div-family {
+  display: flex;
+  flex-direction: column;
+}
