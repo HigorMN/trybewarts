@@ -38,3 +38,7 @@
   width: 675px;
   flex-direction: column;
 }
+
+.div-container {
+  display: flex;
+}
