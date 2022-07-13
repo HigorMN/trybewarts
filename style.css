@@ -8,6 +8,11 @@
   display: flex;
   justify-content: space-between;
   height: 50px;
+  align-items: center;
+}
+
+.trybewarts-header-logo {
+  height: inherit;
 }
 
 .trybewarts-login {
@@ -22,7 +27,10 @@
 
 #main {
   display: flex;
-  width: 675px;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
 }
 
 #evaluation-form {
