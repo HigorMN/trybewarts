@@ -78,5 +78,3 @@ function botton(event) {
 }
 btnEnviar.addEventListener('click', botton);
 
-// getData();
-// form.style.display = 'none';
