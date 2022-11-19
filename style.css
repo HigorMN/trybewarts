@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 .center {
@@ -93,4 +94,9 @@
 .div-family {
   display: flex;
   flex-direction: column;
+}
+
+.footer {
+  background: #3C404A;
+  color: white;
 }
