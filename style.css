@@ -9,6 +9,22 @@
   align-items: center;
 }
 
+.flex {
+  display: flex;
+}
+
+.jcsb {
+  justify-content: space-between;
+}
+
+.jcse {
+  justify-content: space-evenly;
+}
+
+.w50 {
+  width: 50%;
+}
+
 .header {
   background-color: rgb(50, 167, 145);
   display: flex;
@@ -34,6 +50,7 @@
 #main {
   display: flex;
   justify-content: space-evenly;
+  background: #EFEFEF;
 }
 
 #trybewarts-forms-logo {
