@@ -25,6 +25,18 @@
   width: 50%;
 }
 
+.w60 {
+  width: 60%;
+}
+
+.w40 {
+  width: 40%;
+}
+
+.w100 {
+  width: 100%;
+}
+
 .header {
   background-color: rgb(50, 167, 145);
   display: flex;
@@ -62,6 +74,20 @@
   display: flex;
   width: 675px;
   flex-direction: column;
+}
+
+.couter {
+  text-align: right;
+  margin-top: -25px;
+  margin-right: 10px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: 600;
 }
 
 .div-family {
